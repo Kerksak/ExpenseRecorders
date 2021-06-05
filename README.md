@@ -1,1 +1,2 @@
-# ExpenseRecorders
+# ExpenseRecorder
+โปรแกรมบันทึกรายจ่าย
